@@ -3,4 +3,4 @@ layout: post
 title: About
 ---
 
-We are a family run coco chips production company.
+We are a coco chips production company.
