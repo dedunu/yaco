@@ -6,14 +6,15 @@ title: Contact Us
 
 
 
-Registered Office: 
+<p>Registered Office:</p> 
 
+<p>
 No. 222-1D, Meegahawaththa,
-
+  
 Delgoda, 11700,
 
-Sri Lanka.
-
+  Sri Lanka.
+</p>
 
 Processing Facility:
 
